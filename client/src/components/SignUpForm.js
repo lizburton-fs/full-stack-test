@@ -78,7 +78,7 @@ function SignUpForm({ onLogin }) {
         />
       </FormField>
       <FormField>
-        <Label htmlFor="bio">Rhino</Label>
+        <Label htmlFor="bio">Rhinoplasty</Label>
         <Textarea
           rows="3"
           id="bio"
